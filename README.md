@@ -1,6 +1,6 @@
 # 🛒 SUPERCOMPARADOR
 
-**SUPERCOMPARADOR** es una aplicación web diseñada para ayudar a los usuarios a encontrar los supermercados Mercadona, Alcampo y DIA más cercanos, así como a comparar productos y guardarlos como favoritos para facilitar sus decisiones de compra.
+**SUPERCOMPARADOR** es una aplicación web diseñada como un proyecto de la universidad para ayudar a los usuarios a encontrar los supermercados Mercadona, Alcampo y DIA más cercanos, así como a comparar productos y guardarlos como favoritos para facilitar sus decisiones de compra.
 
 ## 📦 Tecnologías utilizadas
 
