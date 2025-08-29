@@ -16,15 +16,17 @@
 - Los usuarios podrán buscar los productos que deseen desde el navegador de la web
 - Acceso rápido a los productos guardados en la base de datos
 
-## 🛠️ En desarrollo
+## 🛠️ Registro e inicio de sesión para usuarios
 
-- Comparador de precios entre supermercados.
-- Registro e inicio de sesión para usuarios.
-- Mejora del diseño UI/UX.
-- Localización de supermercados cercanos
-- Permitir al usuario poner productos en favoritos
-- Implementación de los datos (Web scrapping + API de supermercados)
+- Los usuarios podrán registrarse/iniciar sesión en nuestro sistema
+- Los usuarios podrán marcar los productos como favoritos para facilitar una rápida consulta de los datos de esos productos
+
+## 🛠️ Localización de supermercados por ciudad
+
+- Permite consultar los supermercados (ubicación y horario de apertura) de la ciudad asignada al usuario
 
 ## 🌍 WEB
 
 Puedes consultar la versión en prototipo del proyecto desde este enlace https://supercomparador.vercel.app/
+
+Algunas funcionalidades han dejado de funcionar debido a que es un proyecto antiguo pero pueden consultar
